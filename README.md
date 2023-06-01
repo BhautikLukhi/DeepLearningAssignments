@@ -39,5 +39,7 @@ Assignment 3
 We trained CNN on MNIST data set and performed 3 different attacks as following.
 
 1.Fast Gradient Sign Method(FGSM)
+
 2.Deep Fool
+
 3.Adversarial Examples via Transformation-Based Error Feedback(ABBA).
